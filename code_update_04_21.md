@@ -1,6 +1,6 @@
 // Group project module 6 code update 04-21-25
 //PLEASE READ NOTES TO UNDERSTAND THIS PROGRAM
-//PLEASE NOTE, THIS CODE WAS ORIGINALLY DEVELOPED BY MADISON LINCKS 04-01-25
+//PLEASE NOTE, THIS CODE WAS ORIGINALLY DEVELOPED BY MADISON LINCKS 04-01-25 AND THEN GROUP MEMEBRS PLACED NOTES TO EXPLAIN WHAT EACH LINE OF CODE MEANT AND WHAT IT WAS ACHIEVING. 
 ----------------------------------------------------------------------------------------
 // Notes for loop usage: The statement "FOR i FROM 1 TO 10 DO" is a loop in pseudocode that is used to repeat a block of code 10 times, once for each value of i from 1 to 10. 
 //Breakdown: FOR → This initiates a loop.
